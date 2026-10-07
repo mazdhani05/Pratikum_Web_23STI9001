@@ -1,4 +1,4 @@
-# MagicLish | Game Localization Specialist - Portofolio Praktikum
+# MagicLish | Game Localization - Portofolio Praktikum
 
 Repositori ini dibuat untuk memenuhi tugas praktikum **Branding Personal & Lokalisasi Produk Digital**. Di sini saya mendemonstrasikan proses lokalisasi teks game dari Bahasa Inggris (EN) ke Bahasa Indonesia (ID) dengan fokus pada aspek kultural, imersi pemain, dan batasan teknis UI game.
 
@@ -6,7 +6,7 @@ Repositori ini dibuat untuk memenuhi tugas praktikum **Branding Personal & Lokal
 
 ## Profil & Positioning
 * **Nama:** Ramandhani
-* **Peran:** Game Localization Specialist
+* **Peran:** Game Localization
 * **Fokus:** Mengadaptasi teks game (Dialog, UI, Item, & Skill) agar terasa natural bagi komunitas gamer di Indonesia tanpa menghilangkan esensi mekanik game aslinya.
 
 ---
