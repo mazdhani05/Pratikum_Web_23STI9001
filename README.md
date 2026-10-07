@@ -7,7 +7,7 @@ Di sini saya mendemonstrasikan kemampuan mengadaptasi produk digital asing agar 
 ---
 
 ## 👤 Profil & Positioning
-* **Nama:** [Nama Anda]
+* **Nama:** Ramandhani
 * **Peran:** Junior Localization Specialist / UX Writer
 * **Fokus:** Spesialisasi dalam lokalisasi antarmuka (UI) aplikasi web/mobile dari Bahasa Inggris (EN) ke Bahasa Indonesia (ID) dengan pendekatan kultural dan sensitivitas tata letak desain.
 
