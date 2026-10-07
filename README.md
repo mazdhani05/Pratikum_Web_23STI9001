@@ -1,1 +1,1 @@
-Untuk keperluan mata kuliah pengembangan web
+Untuk keperluan mata kuliah pengembangan web dan praktek menggunakan github
